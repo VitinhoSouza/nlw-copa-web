@@ -16,4 +16,5 @@ The application was built with **Next.js**, so the concept of Static Site Genera
 ## Get started:
 - With Git installed, in your terminal run the following command: *git clone https://github.com/VitinhoSouza/nlw-copa-web.git*;
 - Enter the project folder and do: *npm install*. When all packages are installed, do *npm run dev* to start in development mode.
+- Remember that to work correctly, it is necessary that the server is working correctly. Modify the api baseURL if necessary.
 
